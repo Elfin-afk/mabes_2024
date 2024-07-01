@@ -8,5 +8,6 @@ echo "hello world!!!!":
 //3. git push -u origin master
 //pus adalah perintah, origin adalah nama remote
 //master adalah nama branch
+//4. www.google.com
 
 ?>
